@@ -1,0 +1,20 @@
+{
+  "name": "new-node_js",
+  "version": "1.0.0",
+  "description": "chai with sir",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "time flag",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.3",
+    "dotenv": "^16.4.5",
+    "ejs": "^3.1.10",
+    "express": "^4.21.0",
+    "mongoose": "^8.6.3",
+    "shortid": "^2.2.16",
+    "valid-url": "^1.0.9"
+  }
+}
